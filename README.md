@@ -2,13 +2,4 @@
 Blackjack game using JavaScript
 To play the game click on the link:
 https://sohamroy3.github.io/Blackjackgame/
-A simple blackjack game where you can use three functions:
-
-1)Hit
-It is used to get cards. And one rule is not to exceed more than 21. And Aces card can be of value 1 or 11 according to your advantage.
-
-2)Stand
-An Automated bot will play against you
-
-3)Deal
-Next round of the game
+A simple blackjack game which includes three basic functions like Hit,Stand and Deal.The game is played against a Automated bot called DEALER.Hit button randomly generates cards ranging from 2 to Aces.You have to achieve a score which is closer to 21 or exactly 21.If you exceeded then you automatically loose.Stand button makes the DEALER an active player.Deal button reset the score for the next round of the match.The score is displayed in a table which is consists of three columns :Win,Loss and draw .
