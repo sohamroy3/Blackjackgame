@@ -20,7 +20,7 @@ const DEALER=blackjackGame['dealer']
 const hitSound=new Audio('static/sounds/swish.m4a');
 const winSound=new Audio('static/sounds/cash.mp3');
 const lossSound=new Audio('static/sounds/aww.mp3');
-const drawSound=new Audio('static/sounds/draw.mpeg');
+const drawSound=new Audio('static/sounds/draw.mp3');
 
 //if somebody hits blackjack id then eventlistner should listen the CLICK event nad runs blackjackHit() function
 //Do not have to write on the HTML page like Onclick or something.EventListerner will do the same in JavaScript
